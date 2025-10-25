@@ -2,7 +2,9 @@
 
 A comprehensive end-to-end data science project that analyzes S&P 500 stock market data, featuring data cleaning, exploratory analysis, interactive visualizations, and machine learning models for stock price prediction.
 
-<img width="1273" height="713" alt="image" src="https://github.com/user-attachments/assets/ef765ebe-1d91-43ae-9638-fd7e6a57963c" />
+## Dash
+<img width="1227" height="704" alt="image" src="https://github.com/user-attachments/assets/c36685df-49af-44fb-84fd-614a9845f1f3" />
+
 
 
 
